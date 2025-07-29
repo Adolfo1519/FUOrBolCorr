@@ -1,0 +1,41 @@
+Title: Bolometric Corrections for Fu Ori Object Accretion Disk Luminosities 
+Authors: Carvalho A.S., Hillenbrand L.A. 
+Table: Polynomial coefficients in front of absolute magnitudes for the 
+       bolometric corrections of FU Ori objects
+================================================================================
+Byte-by-byte Description of file: datafile1.txt
+--------------------------------------------------------------------------------
+   Bytes Format Units  Label    Explanations
+--------------------------------------------------------------------------------
+   1- 10 A10    ---    Filter   Filter identifier
+  12- 19 F8.2   10-10m WaveRef  Reference wavelength; Angstroms
+  21- 26 F6.3   ---    c0       The 'c_0_' coefficient in Equ. 2
+  28- 33 F6.3   ---    c1       The 'c_1_' coefficient in Equ. 2
+  35- 40 F6.3   ---    c2       The 'c_2_' coefficient in Equ. 2
+  42- 46 F5.3   ---    A/AV     Ratio of extinction in Filter to V band for a viscous disk model
+--------------------------------------------------------------------------------
+Gaia BP     5041.61 -0.368 -0.326 -0.036 0.84  
+Gaia G      5850.88 -0.022 -0.260 -0.038 0.50  
+Gaia RP     7690.74  0.574 -0.205 -0.048 0.46  
+ZTF g       4746.48 -0.522 -0.357 -0.030 1.07  
+ZTF r       6366.38  0.097 -0.289 -0.051 0.72  
+ZTF i       7829.03  0.615 -0.208 -0.051 0.54  
+LSST u      3751.20 -0.907 -0.464 -0.018 1.47  
+LSST g      4740.66 -0.520 -0.358 -0.030 1.05  
+LSST r      6172.34  0.036 -0.295 -0.050 0.77  
+LSST i      7500.97  0.492 -0.229 -0.051 0.58  
+LSST z      8678.90  0.888 -0.164 -0.048 0.47  
+LSST y      9711.82  1.254 -0.098 -0.042 0.39  
+Roman F062  6141.54  0.038 -0.289 -0.046 0.68  
+Roman F087  8650.97  0.887 -0.162 -0.047 0.44  
+Roman F106 10465.04  1.594 -0.073 -0.043 0.32  
+Roman F129 12759.99  2.267 -0.081 -0.052 0.24  
+Roman F146 13049.63  2.409 -0.094 -0.053 0.18  
+Roman F158 15577.83  2.816 -0.146 -0.066 0.17  
+Roman F184 18290.96  3.156 -0.151 -0.066 0.14  
+Roman F213 21116.87  3.525 -0.118 -0.063 0.11  
+2MASS J    12350.00  2.200 -0.062 -0.049 0.26  
+2MASS H    16620.00  3.015 -0.153 -0.067 0.16  
+2MASS Ks   21590.00  3.589 -0.108 -0.062 0.11  
+WISE W1    33526.00  4.377 -0.237 -0.092 0.06  
+WISE W2    46028.00  4.586 -0.627 -0.153 0.04  
